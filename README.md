@@ -8,9 +8,7 @@ Steps to be followed to run the code are as follows.
 * Download or clone the project.
 * Download the datasets folder from the link.[Link](https://www.dropbox.com/sh/wvjeespb3v07t2v/AABmSOvFQQoE9VICvHxGZYQDa?dl=0)
 * Copy the datasets folder and paste in the runnable application location which is ".\Image-Processing-HandGestures\FinalYearProjectTrial\bin\Debug".
-* Open the file in location .\Image-Processing-HandGestures\ named "FinalYearProjectTrial.sln" via the Visual Studio installed application.
-* Click on build-->build solution.
-* Click on start 
+* Open the "FinalYearProjectTrial.exe" file in location ".\Image-Processing-HandGestures\Image-Processing-HandGestures\FinalYearProjectTrial\bin\Debug"
 * The "samplegestures" folder in the [Link](https://www.dropbox.com/sh/wvjeespb3v07t2v/AABmSOvFQQoE9VICvHxGZYQDa?dl=0) has some images of hand gestures which can be used to test the functionality of the code.
 
 The project can be summarized as follows.
